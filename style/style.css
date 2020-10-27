@@ -121,7 +121,17 @@ line-height: 19px;
 text-transform: uppercase;
 color: #E3B873;
 }
-.two{
-  height: 679px;
-  width: 482px;
+.part-two{
+display: flex;
+justify-content: space-around;
+}
+.title_two{
+ont-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 37px;
+letter-spacing: -0.07em;
+text-transform: uppercase;
+color: #E3B873;
 }
