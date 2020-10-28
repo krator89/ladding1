@@ -98,18 +98,19 @@ height: 89px;
 .fon{
 background-size: cover;
 background: rgba(19, 19, 19, 1);
-height: 707px;
+height: 1076px;
 padding-top: 107px;
 position: relative;
 }
 .step{
 display: flex;
 align-items: left;
-justify-content: center;
+justify-content: space-around;
 }
 .subtitle{
 list-style: none;
 display: flex;
+
 }
 .subtitle_item{
 margin-left: 60px;
@@ -125,13 +126,28 @@ color: #E3B873;
 display: flex;
 justify-content: space-around;
 }
+.two{
+  padding-top: 107px;
+}
 .title_two{
-ont-family: Yeseva One;
+font-family: Yeseva One;
 font-style: normal;
 font-weight: normal;
-font-size: 27px;
-line-height: 37px;
-letter-spacing: -0.07em;
+font-size: 22px;
+line-height: 36px;
 text-transform: uppercase;
 color: #E3B873;
+width: 253px;
+height: 66px;
+padding-top: 107px;
+}
+.title-p{
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 27px;
+color: #FFFFFF;
+width: 442px;
+height: 86px;
 }
