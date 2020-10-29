@@ -6,7 +6,7 @@ body * {
   box-sizing: border-box;
 }
 .container{
-  max-width: 1438px;
+  max-width: 1338px;
   margin: 0 auto;
 }
 .button {
@@ -96,21 +96,21 @@ width: 504px;
 height: 89px;
 }
 .fon{
-background-size: cover;
 background: rgba(19, 19, 19, 1);
-height: 1076px;
-padding-top: 107px;
-position: relative;
+}
+.razmer{
+max-width: 1338px;
+margin: 0 auto;
 }
 .step{
 display: flex;
 align-items: left;
-justify-content: space-around;
+justify-content: flex-end;
 }
 .subtitle{
 list-style: none;
 display: flex;
-
+padding: 52px;
 }
 .subtitle_item{
 margin-left: 60px;
@@ -126,9 +126,6 @@ color: #E3B873;
 display: flex;
 justify-content: space-around;
 }
-.two{
-  padding-top: 107px;
-}
 .title_two{
 font-family: Yeseva One;
 font-style: normal;
@@ -137,9 +134,7 @@ font-size: 22px;
 line-height: 36px;
 text-transform: uppercase;
 color: #E3B873;
-width: 253px;
-height: 66px;
-padding-top: 107px;
+margin: 66px 253;
 }
 .title-p{
 font-family: Nunito Sans;
@@ -148,6 +143,4 @@ font-weight: normal;
 font-size: 14px;
 line-height: 27px;
 color: #FFFFFF;
-width: 442px;
-height: 86px;
 }
