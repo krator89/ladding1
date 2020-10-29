@@ -126,6 +126,9 @@ color: #E3B873;
 display: flex;
 justify-content: space-around;
 }
+.lil{
+  max-width: 600px;
+}
 .title_two{
 font-family: Yeseva One;
 font-style: normal;
@@ -134,7 +137,6 @@ font-size: 22px;
 line-height: 36px;
 text-transform: uppercase;
 color: #E3B873;
-margin: 66px 253;
 }
 .title-p{
 font-family: Nunito Sans;
@@ -143,4 +145,13 @@ font-weight: normal;
 font-size: 14px;
 line-height: 27px;
 color: #FFFFFF;
+}
+.lip{
+font-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+text-transform: uppercase;
+color: #E3B873;
 }
