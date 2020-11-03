@@ -186,4 +186,9 @@ color: #FFFFFF;
 }
 .ph{
   text-align: center;
+  padding-bottom: 320px;
+}
+.fonwhite{
+  margin-top: -220px;
+  text-align: center;
 }
