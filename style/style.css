@@ -163,3 +163,14 @@ line-height: 25px;
 text-transform: uppercase;
 color: #E3B873;
 }
+.vector{
+ padding: 305px 10px;
+ color: white;
+}
+.vec{
+  display: flex;
+  letter-spacing: 40px
+}
+.tor{
+  list-style-type: none;
+}
