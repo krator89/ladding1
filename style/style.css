@@ -188,7 +188,17 @@ color: #FFFFFF;
   text-align: center;
   padding-bottom: 250px;
 }
+.line{
+  margin-bottom: 12px;
+}
 .fonwhite{
   margin-top: -220px;
   text-align: center;
+}
+.video{
+  background: rgba(0, 0, 0, 0.1);
+  position: relative;
+  background-image: url(../images/Ellipse.png);
+  background-position: center;
+  background-repeat: no-repeat;
 }
