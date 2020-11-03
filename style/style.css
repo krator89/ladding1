@@ -164,7 +164,7 @@ text-transform: uppercase;
 color: #E3B873;
 }
 .vector{
- padding: 305px 10px;
+ margin-top: 340px;
  color: white;
 }
 .vec{
@@ -173,4 +173,17 @@ color: #E3B873;
 }
 .tor{
   list-style-type: none;
+}
+.ct{
+  font-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.ph{
+  text-align: center;
 }
