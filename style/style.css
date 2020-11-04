@@ -250,3 +250,31 @@ margin: 5px 1px;
 color: #363636;
 text-decoration: underline;
 }
+.red{
+  display: flex;
+  justify-content: center;
+}
+.red_a{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  color: #181818; 
+  margin: 2px 30px;
+}
+.black{
+text-align: center;
+font-family: Yeseva One;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+color: #181818;
+padding-top: 50px;
+}
+.pp{
+  text-align: center; 
+}
