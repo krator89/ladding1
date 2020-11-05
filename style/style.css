@@ -278,6 +278,35 @@ padding-top: 50px;
 .pp{
   text-align: center; 
 }
+.green_a{
+  display: flex;
+  justify-content: center;
+}
 .type{
 padding: 15px;
+}
+.green_b{
+  display:flex;
+  justify-content: space-around;
+  margin-top: -150px;
+}
+.green_c{
+  background-color: white;
+  padding: 1px 40px;
+}
+.green_h2{
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #363636;  
+}
+.green_ul{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  color: #959595; 
 }
