@@ -200,11 +200,10 @@ color: #FFFFFF;
   text-align: center;
 }
 .video{
-  background: rgba(0, 0, 0, 0.1);
-  position: relative;
-  background-image: url(../images/Ellipse.png);
-  background-position: center;
-  background-repeat: no-repeat;
+ 
+}
+.video_a{
+  background-image:url(../images/Ellipse.png); 
 }
 .orange{
   text-align: center;
