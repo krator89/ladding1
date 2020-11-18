@@ -202,10 +202,6 @@ color: #FFFFFF;
 .video{
 position: relative;
 }
-.video_a{
-  position: inherit;
-  background-image:url(../images/video.png); 
-}
 .orange{
   text-align: center;
   padding: 30px;
