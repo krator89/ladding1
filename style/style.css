@@ -284,7 +284,6 @@ padding: 15px;
 .green_b{
   display:flex;
   justify-content: space-around;
-  margin-top: -150px;
 }
 .green_c{
   background-color: white;
@@ -297,6 +296,7 @@ padding: 15px;
   font-size: 18px;
   line-height: 25px;
   color: #363636;  
+  margin-top: -180px;
 }
 .green_ul{
   font-family: Nunito Sans;
