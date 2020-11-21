@@ -286,8 +286,10 @@ padding: 15px;
   justify-content: space-around;
 }
 .green_c{
-  background-color: white;
   padding: 1px 40px;
+}
+.green_d{
+  background-color: white;
 }
 .green_h2{
   font-family: Yeseva One;
