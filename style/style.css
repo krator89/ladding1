@@ -274,19 +274,22 @@ padding-top: 50px;
 .pp{
   text-align: center; 
 }
-.green_a{
-  display: flex;
-  justify-content: center;
-}
 .type{
 padding: 15px;
 }
 .green_b{
-  display:flex;
-  justify-content: space-around;
+  display: flex;
+  flex-flow: row nowrap;
+  height: 100%;
 }
-.green_c{
-  padding: 1px 40px;
+.green_q{
+  background-image: url(../images/type1.jpg);
+}
+.green_w{
+  background-image: url(../images/type2.jpg);
+}
+.green_e{
+  background-image: url(../images/type3.jpg);
 }
 .green_d{
   background-color: white;
@@ -298,7 +301,6 @@ padding: 15px;
   font-size: 18px;
   line-height: 25px;
   color: #363636;  
-  margin-top: -180px;
 }
 .green_ul{
   font-family: Nunito Sans;
@@ -309,6 +311,5 @@ padding: 15px;
   color: #959595; 
 }
 .green_button{
-  display:flex;
-  justify-content: space-around; 
+
 }
