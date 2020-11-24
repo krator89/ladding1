@@ -279,20 +279,26 @@ padding: 15px;
 }
 .green_b{
   display: flex;
-  flex-flow: row nowrap;
+  justify-content: space-around;
   height: 100%;
 }
 .green_q{
   background-image: url(../images/type1.jpg);
+  height: 33%;
 }
 .green_w{
   background-image: url(../images/type2.jpg);
+  height: 33%;
 }
 .green_e{
   background-image: url(../images/type3.jpg);
+  height: 33%;
 }
 .green_d{
   background-color: white;
+  margin: 120px 95px;
+  position: relative;
+  top: 170px;
 }
 .green_h2{
   font-family: Yeseva One;
@@ -301,6 +307,7 @@ padding: 15px;
   font-size: 18px;
   line-height: 25px;
   color: #363636;  
+  text-align: center;
 }
 .green_ul{
   font-family: Nunito Sans;
@@ -311,5 +318,7 @@ padding: 15px;
   color: #959595; 
 }
 .green_button{
-
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
 }
