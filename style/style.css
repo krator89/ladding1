@@ -322,3 +322,35 @@ padding: 15px;
   justify-content: space-around;
   margin-top: 50px;
 }
+.top{
+  margin-top: 60px;
+}
+.top_a{
+  max-width: 1338px;
+  margin: 0 auto; 
+  display: flex;
+}
+.top_b{
+background: url(../images/zdanie.jpg);
+}
+.top_c{
+  background-color: black;
+}
+.top_zag{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #FFFFFF; 
+  margin: 40px 160px;
+}
+.ooo{
+  font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+color: #363636;
+}
