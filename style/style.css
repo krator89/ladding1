@@ -332,6 +332,8 @@ padding: 15px;
 }
 .top_b{
 background: url(../images/zdanie.jpg);
+display: flex;
+flex-wrap: wrap;
 }
 .top_c{
   background-color: black;
