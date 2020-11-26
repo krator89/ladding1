@@ -374,3 +374,23 @@ line-height: 25px;
 text-align: center;
 color: #FFFFFF;
 }
+.top_w{
+  margin-left: 17%;
+}
+.top_text{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 0.5);  
+}
+.top_sod{
+  font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+color: #FFFFFF;
+margin: 0px 1px;
+}
