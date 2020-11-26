@@ -337,6 +337,11 @@ flex-wrap: wrap;
 }
 .top_c{
   background-color: black;
+  width: 110%;
+}
+.top_z{
+display: flex;
+margin-left: 185px;
 }
 .top_zag{
   font-family: Nunito Sans;
@@ -355,4 +360,5 @@ font-weight: normal;
 font-size: 14px;
 line-height: 19px;
 color: #363636;
+
 }
